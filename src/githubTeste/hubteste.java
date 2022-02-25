@@ -1,5 +1,5 @@
 package githubTeste;
-
+// teste sucesso
 public class hubteste {
 
 	public static void main(String[] args) {
